@@ -1,10 +1,10 @@
 package com.example.freecv
 
 import android.annotation.SuppressLint
-import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
 import android.content.Intent
+import androidx.appcompat.app.AppCompatActivity
 
 class PrincipalActivity : AppCompatActivity() {
     @SuppressLint("MissingInflatedId")

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "220033868641",
+    "firebase_url": "https://freecv-c4c17-default-rtdb.firebaseio.com",
+    "project_id": "freecv-c4c17",
+    "storage_bucket": "freecv-c4c17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220033868641:android:1f86b5230d935c286c1b20",
+        "android_client_info": {
+          "package_name": "com.example.freecv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220033868641-4390kd2v3fa44j6nkogngcjsr53ba708.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoKL1Ip9P8KWH_f7AOmkYqqtCt1AkyDuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220033868641-4390kd2v3fa44j6nkogngcjsr53ba708.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
